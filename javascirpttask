@@ -16,7 +16,7 @@
             <input type="password" name="password" id="password" placeholder="Enter Password:"/>
             <input type="button" value="Login" id="submit" onclick="validate()"/>
         </form>
-        <span><b class="note">Note : </b>For example,:<br/><b class="valid">User Name:Bhavya<br/>Password:abc@123</b></span>
+        <span><b class="note">Note : </b>For example,:<br/><b class="valid">User Name:laya<br/>Password:abc@123</b></span>
     </div>
 </div>
 </body>
